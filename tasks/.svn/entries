@@ -1,0 +1,40 @@
+8
+
+dir
+1983
+http://svn.tds.lv/svn/vikas.lv/trunk/vendor/plugins/data_migration/tasks
+http://svn.tds.lv/svn
+
+
+
+2008-03-29T18:07:31.192585Z
+1017
+balepc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+255fe20f-5129-4aba-b671-89fb8edcac88
+
+data_migration_tasks.rake
+file
+
+
+
+
+2008-04-02T09:17:50.000000Z
+4fa0554188cd25fd754288e9c8a060d6
+2008-03-29T18:07:31.192585Z
+1017
+balepc
+

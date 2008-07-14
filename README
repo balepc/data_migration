@@ -1,0 +1,14 @@
+DataMigration
+=============
+
+DataMigration is a ActiveRecord migration mechanism extension to handle data migrations separatly from structure migration.
+
+
+Example
+=======
+
+ruby script/generate data_migratio ModelName
+rake db:migrate:data
+
+
+Copyright (c) 2008 Valery Visnakov, released under the MIT license
